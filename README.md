@@ -19,7 +19,7 @@ Grbl includes full acceleration management with look ahead. That means the contr
 
 * Built on the wonderful Grbl v0.6 (2011) firmware written by Simen Svale Skogsrud (Norway).
 
-* TEST02--BB---CC-VS-Code  - 7:27
+* TEST02--BB---CC-VS-Code  - 7:30
 
 ***
 
